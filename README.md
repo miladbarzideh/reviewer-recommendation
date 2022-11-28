@@ -5,4 +5,4 @@ In this repo, we will analyze `social relation` between contributors and reviewe
 
 
 ## Relevant Articles
-- [Reviewer Recommendation](https://mimbe.vercel.app/blog/2022-09-20-reviewer-recommendation)
+- [Reviewer Recommendation](https://miladbarzideh.com/blog/2022-09-20-reviewer-recommendation)
